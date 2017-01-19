@@ -1,2 +1,3 @@
-# alura-listavip-sprinboot
-Repositório do curso de Spring Boot
+# listavip
+
+Projeto criado com Spring Boot
